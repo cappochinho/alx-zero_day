@@ -1,1 +1,2 @@
-inside 0x03-git
+Edited the alx file in bash
+Deleted js
